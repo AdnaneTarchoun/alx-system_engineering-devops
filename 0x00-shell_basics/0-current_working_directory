@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "/tmp/correction/4871815103244223525906777814860423298797_5/205/387418/0x00-shell_basics"
+echo "Absolute path of current directory: /root/alx-system_engineering-devops/0x00-shell_basics
+$"
