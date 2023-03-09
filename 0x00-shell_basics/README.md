@@ -1,1 +1,3 @@
- a script that prints the absolute path name of the current working directory.
+Shell Basics Readme
+
+This is the readme file for shell basics.
